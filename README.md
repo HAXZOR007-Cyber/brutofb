@@ -1,6 +1,6 @@
 # 🔥 MAKE DOANG GAK FOLLOW🔥
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-HAXZOR007-Cyber?style=flat-square&logo=github)](https://github.com/HAXZOR007-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Dela Drayton ID-blue?style=flat-square&logo=facebook)](https://www.facebook.com/unavailable.this.link)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Dela Drayton ID-deepgreen?style=flat-square&logo=whatsapp)](Private)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-HAXZOR007CYBER?style=flat-square&logo=github)](https://github.com/HAXZOR007-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-YusepGanz-blue?style=flat-square&logo=facebook)](https://www.facebook.com/unavailable.this.link)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-HAXZOR007-Cyber-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6281383127594)
 
 
 
@@ -22,9 +22,9 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf Brutefb`
-- `git clone https://github.com/HAXZOR007-Cyber/Brutofb`
-- `cd Brutofb`
-- `python bruto.py`
+- `git clone https://github.com/Yusep-XD/Brutefb`
+- `cd Brutefb`
+- `python run.py`
      
 
  ```This Tools is Free Enjoy ```</br>
