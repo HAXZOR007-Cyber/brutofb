@@ -1,4 +1,4 @@
-#🔥 MAKE DOANG GAK FOLLOW🔥
+# 🔥 MAKE DOANG GAK FOLLOW🔥
 
 ```bash
 $ pkg update && upgrade
